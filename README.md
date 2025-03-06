@@ -18,4 +18,4 @@ brg is a 4 key rhythm game in development currently that I plan to work on more 
 Honestly, rhythm games are some of my favorite to play I also enjoy coding so I'm trying to advance my knowledge, build a passion project, and make something people will want to play.
 ## Showcase
 
-https://houndslight.github.io/assets/brg-showcase.mp4
+[![showcase](https://houndslight.github.io/assets/brg-showcase.mp4)
